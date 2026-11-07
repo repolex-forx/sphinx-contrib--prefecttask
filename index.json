@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "prefecttask",
+  "versions": [
+    {
+      "commit": "44112bca2d6bd66b00c40faf52a41b1dda6809c9",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:42:55.214399+00:00"
+    }
+  ]
+}
