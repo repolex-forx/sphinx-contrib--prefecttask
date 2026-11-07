@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/prefecttask/commit/44112bca2d6bd66b00c40faf52a41b1dda6809c9",
       "git:hexsha": "44112bca2d6bd66b00c40faf52a41b1dda6809c9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
